@@ -1,9 +1,7 @@
 ### Olá! Eu sou Vlamir Santo 👋
 
-Casado com a Maira, pai da Clara, desenvolvedor web e mobile, apaixonado por hambúrguer, música e ecoturismo.
-
-- 🔭 Trabalhando como coordenador de desenvolvimento e desenvolvedor de software
-- 🌱 Estudando arquitetura de micro serviçose Python
+- 👨‍💻 Trabalhando como coordenador de desenvolvimento e desenvolvedor de software
+- 🕸️ Estudando arquitetura de microserviços
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vlamirsanto&count_private=true&show_icons=true&theme=maroongold" />
